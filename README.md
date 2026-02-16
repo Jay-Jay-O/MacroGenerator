@@ -23,4 +23,12 @@ A python tkinter program that can simulate mouse clicks, mouse drags and key pre
     - Start position when *drag checkbox* is ticked
   - Press **SHIFT** when the *drag checkbox* is ticked to locate secondary mouse location
     - End position when *drag checkbox* is ticked
-  - Increase / decrease hold duration to simulate long presses and quick taps
+  - Increase / decrease hold duration to simulate long presses and quick clicks
+ 
+- Add key action
+  - Add simulated keypress/es
+    > Note:
+    > Adding a **PAUSE BREAK** key may break functionality as it is
+    > the key used to stop the execution of the actions in the program
+  - Increase / decrease hold duration to simulate long key presses and quick key taps
+ 
